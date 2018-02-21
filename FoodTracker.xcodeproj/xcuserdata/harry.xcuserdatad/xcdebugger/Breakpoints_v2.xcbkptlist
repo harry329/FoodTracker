@@ -22,33 +22,65 @@
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "FoodTracker.RatingControl.init (frame : __C.CGRect) -&gt; FoodTracker.RatingControl"
+                  symbolName = "FoodTracker.RatingControl.__allocating_init(frame: __C.CGRect) -&gt; FoodTracker.RatingControl"
                   moduleName = "FoodTracker"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/harry/IOS_Projects/FoodTracker/FoodTracker/FoodTracker/RatingControl.swift"
-                  timestampString = "533922925.859078"
+                  timestampString = "535004086.854897"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "54">
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "FoodTracker.RatingControl.__allocating_init (frame : __C.CGRect) -&gt; FoodTracker.RatingControl"
+                  symbolName = "FoodTracker.RatingControl.init(frame: __C.CGRect) -&gt; FoodTracker.RatingControl"
                   moduleName = "FoodTracker"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/harry/IOS_Projects/FoodTracker/FoodTracker/FoodTracker/RatingControl.swift"
-                  timestampString = "533922925.861492"
+                  timestampString = "535004086.85694"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "27">
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "37">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodTrackerTests/FoodTrackerTests.swift"
+            timestampString = "534005235.765455"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "testMealInitializationSucceeds()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodTracker/ViewController.swift"
+            timestampString = "534525228.760196"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "ViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
